@@ -1,6 +1,6 @@
 # useful gists
 
-This is a collection referencing my gists or gists from other people thatI have found along the way
+This is a collection referencing my gists or gists from other people that I have found along the way
 
 ## my gists
 
